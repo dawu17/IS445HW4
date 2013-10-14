@@ -32,6 +32,8 @@ nav
     background-color :antiquewhite;
     width:680px;
     position:relative;
+    padding-bottom :5px;
+    padding-top:5px;
 }
 
 
@@ -39,6 +41,7 @@ article
 {
     background-color :lightgrey;
     width:450px;
+    height:200px;
     position:relative;
 }
 
@@ -47,16 +50,20 @@ section
 {
     background-color :aliceblue;
     width:450px;
+    height:50px;
     position:relative;
+    margin-bottom:1em;
 }
 
 
 aside
 {
     background-color:lightcyan;
-    width:210px;
-    height:100px;
-    position :relative ;
+    width:230px;
+    height:200px;
+    left:450px;
+    top:-200px;
+    position :relative;
 
 }
 
@@ -66,5 +73,13 @@ footer
     background-color :lightblue;
     width:680px;
     position:relative;
+    top:-200px;
 }
 
+
+ul li
+{
+    display: inline;
+    margin-left:1em;
+
+}

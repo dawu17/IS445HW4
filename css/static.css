@@ -6,6 +6,13 @@
     font-family :Calibri;
 }
 
+ul li
+{
+    display: inline;
+    margin-left:1em;
+
+}
+
 
 a:link
 {
@@ -29,6 +36,8 @@ nav
 {
     background-color :antiquewhite;
     width:680px;
+    padding-bottom :5px;
+    padding-top:5px;
 }
 
 
@@ -36,6 +45,7 @@ article
 {
     background-color :lightgrey;
     width:450px;
+    height:200px;
 }
 
 
@@ -43,13 +53,16 @@ section
 {
     background-color :aliceblue;
     width:450px;
+    height:50px;
+    margin-bottom:1em;
 }
 
 
 aside
 {
     background-color:lightcyan;
-    width:210px;
+    width:230px;
+    height:200px;
 }
 
 
