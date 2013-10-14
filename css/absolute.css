@@ -1,0 +1,67 @@
+﻿body {
+    text-align: center;
+    width:680px;
+    margin-left :auto;
+    margin-right:auto;
+    font-family :Calibri;
+}
+
+
+a:link
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+
+header
+{
+    background-color:lightblue;
+    width:680px;
+    position:absolute;
+}
+
+
+nav
+{
+    background-color :antiquewhite;
+    width:680px;
+    position:absolute;
+}
+
+
+article
+{
+    background-color :lightgrey;
+    width:450px;
+    position:absolute;
+}
+
+
+section
+{
+    background-color :aliceblue;
+    width:450px;
+    position:absolute;
+}
+
+
+aside
+{
+    background-color:lightcyan;
+    width:210px;
+    position:absolute;
+}
+
+
+footer
+{
+    background-color :lightblue;
+    width:680px;
+    position:absolute;
+}
+
